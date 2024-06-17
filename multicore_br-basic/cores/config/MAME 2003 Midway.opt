@@ -1,0 +1,6 @@
+mame2003-frameskip = "disabled"
+mame2003-dcs-speedhack = "disabled"
+mame2003-skip_disclaimer = "disabled"
+mame2003-skip_warnings = "disabled"
+mame2003-samples = "enabled"
+mame2003-sample_rate = "22050"

@@ -1,0 +1,7 @@
+bk_aspect_ratio = "1:1"
+bk_color = "enabled"
+bk_doublespeed = "disabled"
+bk_keyboard_type = "poll"
+bk_layout = "qwerty"
+bk_model = "BK-0010"
+bk_peripheral = "none"
