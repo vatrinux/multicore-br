@@ -6,7 +6,7 @@
 
 ## SOBRE O DESENVOLVIMENTO DESTE PROJETO
 
-### Último lançamento: Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic) - [download - versão full](https://archive.org/details/multicore-br-full)
+Último lançamento: Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic) | [download - versão full](https://archive.org/details/multicore-br-full)
 
 O **Multicore BR** é um fork do *[Multicore para GB300](https://github.com/tzubertowski/gb300_multicore)*. As diferenças estão na edição da "UI" (Interface de Usuário) disponível no Firmware original e (a depender da versão) da adição de algumas ROMs (jogos) traduzidas para o PT-BR e COREs (emuladores) adicionados e/ou melhorados.
 
@@ -41,7 +41,7 @@ Existem duas maneiras de instalar/atualizar seu GB300. Então vamos lá:
 
 ## STATUS DE ATUALIZAÇÕES
 
-#### Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic) - [download - versão full](https://archive.org/details/multicore-br-full)
+#### Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic) | [download - versão full](https://archive.org/details/multicore-br-full)
 
 Mudanças na UI:
 - "Boot logo"
