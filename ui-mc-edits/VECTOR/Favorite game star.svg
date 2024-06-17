@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.35"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Favorite game star.svg"
+   inkscape:export-filename="..\Favorite game star.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="20.875"
+     inkscape:cx="11.976048"
+     inkscape:cy="11.952096"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;stroke:#008000;stroke-width:0.158361;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="3.1940117"
+       sodipodi:cy="0.9759481"
+       sodipodi:r1="0.9759481"
+       sodipodi:r2="0.48797405"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:rounded="0.15"
+       inkscape:randomized="0"
+       d="m 3.1940117,0 c 0.097214,0 0.2081761,0.52402783 0.2868239,0.5811688 0.078648,0.057141 0.6113171,7.3874e-4 0.6413579,0.0931948 0.030041,0.092456 -0.4340501,0.35992073 -0.4640909,0.45237683 -0.030041,0.092456 0.1882048,0.5816253 0.109557,0.6387663 -0.078648,0.057141 -0.4764339,-0.3015846 -0.5736479,-0.3015846 -0.097214,0 -0.4950001,0.3587255 -0.5736479,0.3015846 C 2.541716,1.7083657 2.7599616,1.2191964 2.7299208,1.1267404 2.69988,1.0342843 2.2357891,0.76681955 2.2658299,0.67436352 2.2958707,0.5819075 2.8285399,0.63830976 2.9071877,0.5811688 2.9858355,0.52402783 3.0967977,0 3.1940117,0 Z"
+       inkscape:transform-center-y="-0.15424903"
+       transform="matrix(3.1406573,0.53201916,0.06023583,3.2866514,-6.8956847,-1.4570722)"
+       inkscape:transform-center-x="0.025253285" />
+  </g>
+</svg>
