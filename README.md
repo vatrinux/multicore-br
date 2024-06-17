@@ -6,7 +6,7 @@
 
 ## SOBRE O DESENVOLVIMENTO DESTE PROJETO
 
-Último lançamento: Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic) | [download - versão full](https://archive.org/details/multicore-br-full)
+Último lançamento: Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic_gb300) | [download - versão full](https://archive.org/details/multicore-br-full_gb300)
 
 O **Multicore BR** é um fork do *[Multicore para GB300](https://github.com/tzubertowski/gb300_multicore)*. As diferenças estão na edição da "UI" (Interface de Usuário) disponível no Firmware original e (a depender da versão) da adição de algumas ROMs (jogos) traduzidas para o PT-BR e COREs (emuladores) adicionados e/ou melhorados.
 
@@ -30,8 +30,8 @@ Nesta versão foi utilizada a ferramenta *["GB300 Tool"](https://github.com/numm
 
 Antes de começar, saiba que existem 3 (três) arquivos disponíveis para download:
 1. "GB300_original_factory.7z" - contém os arquivos originais de fábrica. *[download](https://archive.org/details/gb-300-original-factory)*
-2. "Multicore_BR-basic.7z" - contém somente as modificações e edições do Multicore BR (sem as ROMs). *[download](https://archive.org/details/multicore-br-basic)*
-3. "Multicore_BR-full.7z" - contém todos os arquivos completos (incluindo as ROMs originais), e serve para instalar diretamente no cartão de memória sem a necessidade de instalar ou atualizar qualquer outro arquivo. *[download](https://archive.org/details/multicore-br-full)*
+2. "Multicore_BR-basic.7z" - contém somente as modificações e edições do Multicore BR (sem as ROMs). *[download](https://archive.org/details/multicore-br-basic_gb300)*
+3. "Multicore_BR-full.7z" - contém todos os arquivos completos (incluindo as ROMs originais), e serve para instalar diretamente no cartão de memória sem a necessidade de instalar ou atualizar qualquer outro arquivo. *[download](https://archive.org/details/multicore-br-full_gb300)*
 
 Existem duas maneiras de instalar/atualizar seu GB300. Então vamos lá:
 
@@ -41,7 +41,7 @@ Existem duas maneiras de instalar/atualizar seu GB300. Então vamos lá:
 
 ## STATUS DE ATUALIZAÇÕES
 
-#### Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic) | [download - versão full](https://archive.org/details/multicore-br-full)
+#### Versão 0.1.0 - [download - versão basic](https://archive.org/details/multicore-br-basic_gb300) | [download - versão full](https://archive.org/details/multicore-br-full_gb300)
 
 Mudanças na UI:
 - "Boot logo"
