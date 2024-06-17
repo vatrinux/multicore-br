@@ -23,7 +23,9 @@ Todos os arquivos no diretório "UI-MC-EDITS" deste projeto são de minha própr
 Nesta versão foi utilizada a ferramenta *["GB300 Tool"](https://github.com/nummacway/gb300tool)* para as modificações do Firmware e adições de ROMs. Não há um manual completo disponível para o uso dessa ferramenta (ao menos desconheço), mas *[AQUI](https://github.com/nummacway/gb300tool)* você encontra tudo o que há disponível sobre a ferramenta, portanto sugiro fazer o uso da ferramenta por conta e risco.
 
 <div align="center">
+
 ![GB300TOOL](/screenshots/screen2.png)
+
 </div>
 
 ## MODO DE INSTALAÇÃO DO MULTICORE
