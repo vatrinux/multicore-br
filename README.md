@@ -1,5 +1,7 @@
 <div align="center">
+
 ![MULTICORE BR](/screenshots/screen0.png)
+
 </div>
 
 ## SOBRE O DESENVOLVIMENTO DESTE PROJETO
@@ -9,7 +11,9 @@
 O **Multicore BR** é um fork do *[Multicore para GB300](https://github.com/tzubertowski/gb300_multicore)*. As diferenças estão na edição da "UI" (Interface de Usuário) disponível no Firmware original e (a depender da versão) da adição de algumas ROMs (jogos) traduzidas para o PT-BR e COREs (emuladores) adicionados e/ou melhorados.
 
 <div align="center">
+
 ![UI-MC-EDITS](/screenshots/screen1.png)
+
 </div>
 
 As modificações e melhorias relacionadas ao *Firmware original* não puderam ser creditadas por terem vindo de diferentes fontes, as quais não foram possíveis de serem encontradas. Mas que mesmo assim, todos os créditos sejam dados aos seus respectivos autores.
