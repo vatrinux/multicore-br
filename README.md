@@ -6,7 +6,7 @@
 
 ## SOBRE O DESENVOLVIMENTO DESTE PROJETO
 
-#### Último lançamento: Versão 0.1.0 - [download - (basic)](https://archive.org/details/multicore-br-basic_gb300) | [download (full)](https://archive.org/details/multicore-br-full_gb300)
+#### Último lançamento: Versão 0.1.0 - [download (basic)](https://archive.org/details/multicore-br-basic_gb300) | [download (full)](https://archive.org/details/multicore-br-full_gb300)
 
 O **Multicore BR** é um fork do *[Multicore para GB300](https://github.com/tzubertowski/gb300_multicore)*. As diferenças estão na edição da "UI" (Interface de Usuário) disponível no Firmware original e (a depender da versão) da adição de algumas ROMs (jogos) traduzidas para o PT-BR e COREs (emuladores) adicionados e/ou melhorados.
 
@@ -37,7 +37,7 @@ Antes de começar, saiba que existem 3 (três) arquivos disponíveis para downlo
 
 Existem duas maneiras de instalar/atualizar seu GB300. Então vamos lá:
 
-1. A maneira mais eficaz (e chata) é formatando o cartão de memória em FAT32 (sugiro selecionar a opção de "tamanho de alocação" em 32 quilobytes, o padrão é 16 quilobytes) e copiar todos os arquivos inclusos na pasta "GB300 Original Factory" que contém o firmware original de fábrica para o seu cartão de memória. Faça o download desse "backup original" no link acima e extraia todos os arquivos em seu PC. Depois é só copiar tudo dentro do cartão de memória (já formatado). Depois de copiar todos os arquivos, faça o mesmo com o "Multicore BR (basic)", faça o download no link acima, extraia os arquivos e copie tudo para o seu cartão de memória; e caso apareça alguma mensagem para substituir algum arquivo, é só aceitar. Depois de concluído todo o processo é só colocar o cartão de memória no seu portátil e se divertir.
+1. A maneira mais eficaz (e chata) é formatando o cartão de memória em FAT32 (sugiro selecionar a opção de "tamanho de alocação" em 32 quilobytes, o padrão é 16 quilobytes) e copiar todos os arquivos inclusos na pasta "GB300 Original Factory" que contém o firmware original de fábrica para o seu cartão de memória. Faça o download desse "backup original" no link acima e extraia todos os arquivos em seu PC. Depois é só copiar tudo dentro do cartão de memória (já formatado). Depois de copiar todos os arquivos, faça o mesmo com o "Multicore BR (basic)", faça o download no link acima, extraia os arquivos e copie tudo para o seu cartão de memória; e caso apareça alguma mensagem para substituir algum arquivo, é só aceitar. Depois de concluído todo o processo é só inserir o cartão de memória no seu portátil e se divertir.
 
 2. A maneira mais rápida (e menos segura) é formatando o cartão de memória em FAT32 (da mesma forma como descrito no processo anterior), fazer o download do "Multicore BR (full)" no link acima e extrair todos os arquivos em seu PC. Depois é so copiar todos esses arquivos para o cartão de memória (já formatado). Não é necessário o uso dos arquivos originais de fábrica, eles já estão inclusos nessa opção (e atualizados).
 
